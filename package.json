@@ -20,11 +20,6 @@
     "type": "git",
     "url": "git+https://github.com/smikhalevski/surefire.git"
   },
-  "keywords": [
-    "react",
-    "hooks",
-    "render"
-  ],
   "author": "Savva Mikhalevski <smikhalevski@gmail.com>",
   "license": "MIT",
   "bugs": {
