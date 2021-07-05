@@ -4,7 +4,7 @@ import {
   isProxy,
   isProxyable,
   traverseProxyable,
-} from '../main/Surefire';
+} from '../main/surefire';
 import {deleted, proxyTarget} from '../main/symbols';
 
 describe('isProxyable', () => {
